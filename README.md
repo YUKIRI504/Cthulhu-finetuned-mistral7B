@@ -22,6 +22,7 @@
 
 - **利用方法**  
   Hugging Face Hubからモデルを読み込むか、添付されているipynbファイルの各セルを順番に実行することで、ファインチューニング済みモデルを利用できます。
+  0yukky0/mistral-lora-Cthulhu-v8.2
 
 ## 概要
 
